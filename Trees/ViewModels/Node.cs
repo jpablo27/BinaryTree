@@ -4,13 +4,14 @@
 // <summary></summary>
 // -----------------------------------------------------------------------
 
-namespace Trees;
+namespace Trees.ViewModels;
 
 using System;
 using System.Windows;
 using System.Windows.Threading;
 
 using Trees.Enums;
+using Trees.MvvmBase;
 
 /// <summary>
 /// Class Node.

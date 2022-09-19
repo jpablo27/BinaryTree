@@ -1,4 +1,4 @@
-﻿namespace Trees;
+﻿namespace Trees.MvvmBase;
 
 using System.ComponentModel;
 using System.Runtime.CompilerServices;

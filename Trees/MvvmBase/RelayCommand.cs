@@ -4,7 +4,7 @@
 // <summary></summary>
 // -----------------------------------------------------------------------
 
-namespace Trees;
+namespace Trees.MvvmBase;
 
 using System;
 using System.Windows.Input;

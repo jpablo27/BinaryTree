@@ -7,9 +7,10 @@
     xmlns:local="clr-namespace:Trees.Views"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:trees="clr-namespace:Trees"
+    xmlns:viewModels="clr-namespace:Trees.ViewModels"
     x:Name="node"
     Margin="4,0,0,0"
-    d:DataContext="{d:DesignInstance trees:Node}"
+    d:DataContext="{d:DesignInstance viewModels:Node}"
     mc:Ignorable="d">
     <UserControl.ContextMenu>
         <ContextMenu>

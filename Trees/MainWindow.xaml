@@ -6,10 +6,11 @@
     xmlns:local="clr-namespace:Trees"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:views="clr-namespace:Trees.Views"
+    xmlns:viewModels="clr-namespace:Trees.ViewModels"
     Title="MainWindow"
     Width="800"
     Height="450"
-    d:DataContext="{d:DesignInstance local:MainViewModel}"
+    d:DataContext="{d:DesignInstance viewModels:MainViewModel}"
     mc:Ignorable="d">
     <Grid>
         <Grid.ColumnDefinitions>

@@ -4,15 +4,17 @@
 // <summary></summary>
 // -----------------------------------------------------------------------
 
-namespace Trees;
+namespace Trees.ViewModels;
 
 using System.Windows;
 
+using Trees.MvvmBase;
+
 /// <summary>
 /// Class MainViewModel.
-/// Implements the <see cref="Trees.ViewModelBase" />
+/// Implements the <see cref="ViewModelBase" />
 /// </summary>
-/// <seealso cref="Trees.ViewModelBase" />
+/// <seealso cref="ViewModelBase" />
 internal class MainViewModel : ViewModelBase
 {
     #region Static Fields

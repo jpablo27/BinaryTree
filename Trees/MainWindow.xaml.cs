@@ -7,6 +7,8 @@ namespace Trees
     using System.Windows;
     using System.Windows.Threading;
 
+    using Trees.ViewModels;
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>

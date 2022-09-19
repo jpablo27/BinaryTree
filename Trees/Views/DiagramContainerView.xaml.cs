@@ -9,6 +9,8 @@ namespace Trees.Views
     using System.Windows;
     using System.Windows.Controls;
 
+    using Trees.ViewModels;
+
     /// <summary>
     /// Interaction logic for DiagramContainerView.xaml
     /// </summary>
